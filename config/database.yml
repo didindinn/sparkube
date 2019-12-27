@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: sparkube_production
-  username: sparkube
-  password: <%= ENV['SPARKUBE_DATABASE_PASSWORD'] %>
+  username: cucqhnrhxaonyy
+  password: <%= ENV['d0c75bbc1e89b02273d609042fb6988a411b2404bf06f23938496eb6183a4e30'] %>
